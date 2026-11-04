@@ -1,0 +1,28 @@
+[package]
+name = "flash-strategy"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+flash-core = { workspace = true }
+flash-math = { workspace = true }
+flash-executor = { workspace = true }
+flash-scanner = { workspace = true }
+flash-collector = { workspace = true }
+flash-simulator = { workspace = true }
+alloy-primitives = { workspace = true }
+alloy-rlp = "0.3.16"
+reqwest = { version = "0.13", default-features = false, features = ["json", "default-tls"] }
+k256 = { version = "0.13.4", default-features = false, features = ["ecdsa"] }
+parking_lot = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tokio = { workspace = true }
+dashmap = { workspace = true }
+
+[dev-dependencies]
+criterion = { workspace = true }

@@ -1,0 +1,22 @@
+[package]
+name = "flash-collector"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+flash-core = { workspace = true }
+alloy-primitives = { workspace = true }
+alloy-rlp = "0.3.16"
+tokio = { workspace = true }
+tokio-tungstenite = { workspace = true }
+futures = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tracing = { workspace = true }
+thiserror = { workspace = true }
+alloy-consensus = { version = "1.7", default-features = false }
+alloy-eips = { version = "1.7", default-features = false }
+base64 = "0.22.1"
+parking_lot = { workspace = true }

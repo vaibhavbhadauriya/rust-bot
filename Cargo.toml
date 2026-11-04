@@ -1,0 +1,98 @@
+[package]
+name = "flash-arbitrage-bot"
+version = "0.1.0"
+edition = "2021"
+authors = ["Teamwork"]
+publish = false
+
+[workspace]
+resolver = "2"
+members = [
+    ".",
+    "crates/core",
+    "crates/math",
+    "crates/scanner",
+    "crates/collector",
+    "crates/simulator",
+    "crates/executor",
+    "crates/strategy",
+    "tests",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Teamwork"]
+license = "MIT OR Apache-2.0"
+
+[workspace.dependencies]
+flash-core = { path = "crates/core" }
+flash-math = { path = "crates/math" }
+flash-executor = { path = "crates/executor" }
+flash-scanner = { path = "crates/scanner" }
+flash-collector = { path = "crates/collector" }
+flash-simulator = { path = "crates/simulator" }
+flash-strategy = { path = "crates/strategy" }
+tokio = { version = "1.43", features = ["full"] }
+alloy-primitives = { version = "1.7.3", default-features = false, features = ["std", "serde"] }
+revm = { version = "43.0.3", default-features = false, features = ["std"] }
+revm-trace = "4.2.0"
+revm-inspectors = "0.44.3"
+futures = "0.3"
+tokio-tungstenite = { version = "0.26", features = ["native-tls"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+dotenvy = "0.15"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "time"] }
+cacache = { version = "13.0", default-features = false, features = ["tokio-runtime", "mmap"] }
+clap = { version = "4.5", features = ["derive"] }
+criterion = "0.5"
+dashmap = "6.1.0"
+parking_lot = "0.12"
+thiserror = "2.0"
+anyhow = "1.0"
+
+[dependencies]
+flash-core = { workspace = true }
+flash-math = { workspace = true }
+flash-strategy = { workspace = true }
+flash-scanner = { workspace = true }
+flash-simulator = { workspace = true }
+flash-collector = { workspace = true }
+tokio = { workspace = true }
+alloy-primitives = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+dotenvy = { workspace = true }
+clap = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+
+[dev-dependencies]
+criterion = { workspace = true }
+flash-executor = { workspace = true }
+flash-simulator = { workspace = true }
+flash-scanner = { workspace = true }
+flash-collector = { workspace = true }
+flash-strategy = { workspace = true }
+revm = { workspace = true }
+
+[[bench]]
+name = "vanity_bench"
+harness = false
+
+[[bench]]
+name = "latency_bench"
+harness = false
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+opt-level = 3
+panic = "abort"
+
+[profile.bench]
+opt-level = 3
+lto = "fat"
+codegen-units = 1

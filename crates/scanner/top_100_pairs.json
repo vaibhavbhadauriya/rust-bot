@@ -1,0 +1,1408 @@
+[
+  {
+    "rank": 1,
+    "pair": "USDC / USDT",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 106932667013095.12,
+    "active_liquidity_usd": 97750000000.0,
+    "trailing_24h_volume_usd": 410550000000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 2,
+    "pair": "ARB / USDC",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 6369387906267.145,
+    "active_liquidity_usd": 35750000000.0,
+    "trailing_24h_volume_usd": 150150000000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 3,
+    "pair": "PENDLE / WETH",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Camelot V3",
+      "Uniswap V3"
+    ],
+    "sp_score": 222555252415.60153,
+    "active_liquidity_usd": 1950000000.0,
+    "trailing_24h_volume_usd": 8190000000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 4,
+    "pair": "wstETH / WETH",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Camelot V3",
+      "Uniswap V3"
+    ],
+    "sp_score": 79517133989.72234,
+    "active_liquidity_usd": 28500000.0,
+    "trailing_24h_volume_usd": 119700000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 5,
+    "pair": "WETH / USDC",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 9380416134.637577,
+    "active_liquidity_usd": 64800000.0,
+    "trailing_24h_volume_usd": 272160000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 6,
+    "pair": "WETH / USDT",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 4729819567.7357435,
+    "active_liquidity_usd": 38150000.0,
+    "trailing_24h_volume_usd": 160230000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 7,
+    "pair": "WETH / ARB",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 4172361020.091951,
+    "active_liquidity_usd": 36875000.0,
+    "trailing_24h_volume_usd": 154875000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 8,
+    "pair": "WETH / LINK",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Camelot V3",
+      "Uniswap V3"
+    ],
+    "sp_score": 658877296.0345832,
+    "active_liquidity_usd": 7625000.0,
+    "trailing_24h_volume_usd": 32025000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 9,
+    "pair": "ARB / LINK",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 355451332.54976404,
+    "active_liquidity_usd": 2170000.0,
+    "trailing_24h_volume_usd": 8246000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 10,
+    "pair": "WBTC / GMX",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 352666530.03443503,
+    "active_liquidity_usd": 2154000.0,
+    "trailing_24h_volume_usd": 8185200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 11,
+    "pair": "UNI / USDT",
+    "token0": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 347100601.51595396,
+    "active_liquidity_usd": 2122000.0,
+    "trailing_24h_volume_usd": 8063600.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 12,
+    "pair": "WBTC / LINK",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 345010809.4331448,
+    "active_liquidity_usd": 2290000.0,
+    "trailing_24h_volume_usd": 8702000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 13,
+    "pair": "GMX / USDT",
+    "token0": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 341169879.8751746,
+    "active_liquidity_usd": 2266000.0,
+    "trailing_24h_volume_usd": 8610800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 14,
+    "pair": "PENDLE / USDC",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 338761039.33562475,
+    "active_liquidity_usd": 2074000.0,
+    "trailing_24h_volume_usd": 7881200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 15,
+    "pair": "WBTC / ARB",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 333472876.7056962,
+    "active_liquidity_usd": 2426000.0,
+    "trailing_24h_volume_usd": 9218800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 16,
+    "pair": "LINK / USDT",
+    "token0": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 331136860.62992483,
+    "active_liquidity_usd": 2410000.0,
+    "trailing_24h_volume_usd": 9158000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 17,
+    "pair": "WETH / GMX",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 319524364.6478769,
+    "active_liquidity_usd": 3850000.0,
+    "trailing_24h_volume_usd": 16170000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 18,
+    "pair": "WBTC / WETH",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 293362454.8993741,
+    "active_liquidity_usd": 2850000.0,
+    "trailing_24h_volume_usd": 11970000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 19,
+    "pair": "PENDLE / GMX",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 256043446.37517503,
+    "active_liquidity_usd": 1594000.0,
+    "trailing_24h_volume_usd": 6057200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 20,
+    "pair": "UNI / GMX",
+    "token0": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 252290048.68888396,
+    "active_liquidity_usd": 1706000.0,
+    "trailing_24h_volume_usd": 6482800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 21,
+    "pair": "wstETH / LINK",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 251943348.71650732,
+    "active_liquidity_usd": 1570000.0,
+    "trailing_24h_volume_usd": 5966000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 22,
+    "pair": "PENDLE / LINK",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 249773757.72921258,
+    "active_liquidity_usd": 1690000.0,
+    "trailing_24h_volume_usd": 6422000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 23,
+    "pair": "ARB / rETH",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 245118267.60801262,
+    "active_liquidity_usd": 1530000.0,
+    "trailing_24h_volume_usd": 5814000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 24,
+    "pair": "wstETH / ARB",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 244745474.22538885,
+    "active_liquidity_usd": 1658000.0,
+    "trailing_24h_volume_usd": 6300400.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 25,
+    "pair": "LINK / UNI",
+    "token0": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 244254410.51838383,
+    "active_liquidity_usd": 1810000.0,
+    "trailing_24h_volume_usd": 6878000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 26,
+    "pair": "PENDLE / ARB",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 240811333.66739503,
+    "active_liquidity_usd": 1786000.0,
+    "trailing_24h_volume_usd": 6786800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 27,
+    "pair": "WBTC / rETH",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 237214003.7812623,
+    "active_liquidity_usd": 1610000.0,
+    "trailing_24h_volume_usd": 6118000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 28,
+    "pair": "WBTC / DAI",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 235581290.8865841,
+    "active_liquidity_usd": 1474000.0,
+    "trailing_24h_volume_usd": 5601200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 29,
+    "pair": "LINK / GMX",
+    "token0": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 235359010.06291354,
+    "active_liquidity_usd": 1930000.0,
+    "trailing_24h_volume_usd": 7334000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 30,
+    "pair": "WBTC / wstETH",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 235079034.00453398,
+    "active_liquidity_usd": 1746000.0,
+    "trailing_24h_volume_usd": 6634800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 31,
+    "pair": "ARB / UNI",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 233284931.77130803,
+    "active_liquidity_usd": 1914000.0,
+    "trailing_24h_volume_usd": 7273200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 32,
+    "pair": "PENDLE / WBTC",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 229139879.30978933,
+    "active_liquidity_usd": 1882000.0,
+    "trailing_24h_volume_usd": 7151600.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 33,
+    "pair": "DAI / USDT",
+    "token0": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 227193106.08243185,
+    "active_liquidity_usd": 1546000.0,
+    "trailing_24h_volume_usd": 5874800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 34,
+    "pair": "rETH / USDT",
+    "token0": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 227067052.48110235,
+    "active_liquidity_usd": 1690000.0,
+    "trailing_24h_volume_usd": 6422000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 35,
+    "pair": "MAGIC / USDT",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 223351745.80749026,
+    "active_liquidity_usd": 1402000.0,
+    "trailing_24h_volume_usd": 5327600.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 36,
+    "pair": "wstETH / USDT",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 222930193.63729006,
+    "active_liquidity_usd": 1834000.0,
+    "trailing_24h_volume_usd": 6969200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 37,
+    "pair": "ARB / GMX",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 222138442.20687422,
+    "active_liquidity_usd": 2042000.0,
+    "trailing_24h_volume_usd": 7759600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 38,
+    "pair": "WBTC / UNI",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 219364007.9331651,
+    "active_liquidity_usd": 2018000.0,
+    "trailing_24h_volume_usd": 7668400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 39,
+    "pair": "PENDLE / USDT",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 214744311.95025194,
+    "active_liquidity_usd": 1978000.0,
+    "trailing_24h_volume_usd": 7516400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 40,
+    "pair": "MAGIC / USDC",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 214702246.92691034,
+    "active_liquidity_usd": 1466000.0,
+    "trailing_24h_volume_usd": 5570800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 41,
+    "pair": "USDC / rETH",
+    "token0": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 214665734.33738464,
+    "active_liquidity_usd": 1770000.0,
+    "trailing_24h_volume_usd": 6726000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 42,
+    "pair": "RDNT / USDC",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 208456398.48313275,
+    "active_liquidity_usd": 1314000.0,
+    "trailing_24h_volume_usd": 4993200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 43,
+    "pair": "wstETH / USDC",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 208286082.20364493,
+    "active_liquidity_usd": 1922000.0,
+    "trailing_24h_volume_usd": 7303600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 44,
+    "pair": "MAGIC / WETH",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 204265223.00667718,
+    "active_liquidity_usd": 1530000.0,
+    "trailing_24h_volume_usd": 5814000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 45,
+    "pair": "WETH / rETH",
+    "token0": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 199999132.8079786,
+    "active_liquidity_usd": 1850000.0,
+    "trailing_24h_volume_usd": 7030000.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 46,
+    "pair": "RDNT / WETH",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 199767780.79568902,
+    "active_liquidity_usd": 1370000.0,
+    "trailing_24h_volume_usd": 5206000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 47,
+    "pair": "WBTC / USDC",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Camelot V3",
+      "SushiSwap V2",
+      "Uniswap V3"
+    ],
+    "sp_score": 191546787.2031415,
+    "active_liquidity_usd": 1750000.0,
+    "trailing_24h_volume_usd": 7350000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 48,
+    "pair": "FRAX / WETH",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 190931348.20286298,
+    "active_liquidity_usd": 1210000.0,
+    "trailing_24h_volume_usd": 4598000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 49,
+    "pair": "wstETH / rETH",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 177512753.04730397,
+    "active_liquidity_usd": 1130000.0,
+    "trailing_24h_volume_usd": 4294000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 50,
+    "pair": "PENDLE / rETH",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 175020402.51929107,
+    "active_liquidity_usd": 1210000.0,
+    "trailing_24h_volume_usd": 4598000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 51,
+    "pair": "PENDLE / DAI",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 174835897.3924104,
+    "active_liquidity_usd": 1114000.0,
+    "trailing_24h_volume_usd": 4233200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 52,
+    "pair": "PENDLE / wstETH",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 172587685.70834816,
+    "active_liquidity_usd": 1306000.0,
+    "trailing_24h_volume_usd": 4962800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 53,
+    "pair": "DAI / UNI",
+    "token0": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 171324896.93814597,
+    "active_liquidity_usd": 1186000.0,
+    "trailing_24h_volume_usd": 4506800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 54,
+    "pair": "rETH / UNI",
+    "token0": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 170336989.03472933,
+    "active_liquidity_usd": 1290000.0,
+    "trailing_24h_volume_usd": 4902000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 55,
+    "pair": "MAGIC / UNI",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 169489311.8225007,
+    "active_liquidity_usd": 1082000.0,
+    "trailing_24h_volume_usd": 4111600.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 56,
+    "pair": "wstETH / UNI",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 166496415.23353824,
+    "active_liquidity_usd": 1394000.0,
+    "trailing_24h_volume_usd": 5297200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 57,
+    "pair": "DAI / GMX",
+    "token0": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 165840720.17263064,
+    "active_liquidity_usd": 1258000.0,
+    "trailing_24h_volume_usd": 4780400.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 58,
+    "pair": "MAGIC / GMX",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 165175944.07873535,
+    "active_liquidity_usd": 1146000.0,
+    "trailing_24h_volume_usd": 4354800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 59,
+    "pair": "rETH / GMX",
+    "token0": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 163446366.10556376,
+    "active_liquidity_usd": 1370000.0,
+    "trailing_24h_volume_usd": 5206000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 60,
+    "pair": "RDNT / GMX",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 161487780.08469257,
+    "active_liquidity_usd": 1034000.0,
+    "trailing_24h_volume_usd": 3929200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 61,
+    "pair": "PENDLE / UNI",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0xfa7f8980b0f1e64a2062791ce3b087ad44e6b528",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 159777289.66509083,
+    "active_liquidity_usd": 1498000.0,
+    "trailing_24h_volume_usd": 5692400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 62,
+    "pair": "MAGIC / LINK",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 159109456.83571914,
+    "active_liquidity_usd": 1210000.0,
+    "trailing_24h_volume_usd": 4598000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 63,
+    "pair": "DAI / LINK",
+    "token0": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 158370187.24677962,
+    "active_liquidity_usd": 1330000.0,
+    "trailing_24h_volume_usd": 5054000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 64,
+    "pair": "wstETH / GMX",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 157961596.9082425,
+    "active_liquidity_usd": 1482000.0,
+    "trailing_24h_volume_usd": 5631600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 65,
+    "pair": "RDNT / LINK",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 156589635.3023821,
+    "active_liquidity_usd": 1090000.0,
+    "trailing_24h_volume_usd": 4142000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 66,
+    "pair": "rETH / LINK",
+    "token0": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 154333777.89116612,
+    "active_liquidity_usd": 1450000.0,
+    "trailing_24h_volume_usd": 5510000.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 67,
+    "pair": "MAGIC / ARB",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 151279194.0612632,
+    "active_liquidity_usd": 1274000.0,
+    "trailing_24h_volume_usd": 4841200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 68,
+    "pair": "FRAX / LINK",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 150854925.6807779,
+    "active_liquidity_usd": 970000.0,
+    "trailing_24h_volume_usd": 3686000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 69,
+    "pair": "RDNT / ARB",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 150159949.16248667,
+    "active_liquidity_usd": 1146000.0,
+    "trailing_24h_volume_usd": 4354800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 70,
+    "pair": "ARB / DAI",
+    "token0": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 148901163.87166014,
+    "active_liquidity_usd": 1402000.0,
+    "trailing_24h_volume_usd": 5327600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 71,
+    "pair": "FRAX / ARB",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 145590174.40396306,
+    "active_liquidity_usd": 1018000.0,
+    "trailing_24h_volume_usd": 3868400.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 72,
+    "pair": "WBTC / RDNT",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 142190234.3292509,
+    "active_liquidity_usd": 1202000.0,
+    "trailing_24h_volume_usd": 4567600.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 73,
+    "pair": "WBTC / MAGIC",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 141675279.4543859,
+    "active_liquidity_usd": 1338000.0,
+    "trailing_24h_volume_usd": 5084400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 74,
+    "pair": "FRAX / WBTC",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 139016376.51709017,
+    "active_liquidity_usd": 1066000.0,
+    "trailing_24h_volume_usd": 4050800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 75,
+    "pair": "GRAIL / ARB",
+    "token0": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "token1": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 137625330.98746333,
+    "active_liquidity_usd": 890000.0,
+    "trailing_24h_volume_usd": 3382000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 76,
+    "pair": "RDNT / USDT",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 132672576.13810451,
+    "active_liquidity_usd": 1258000.0,
+    "trailing_24h_volume_usd": 4780400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 77,
+    "pair": "WBTC / GRAIL",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 132212004.5380135,
+    "active_liquidity_usd": 930000.0,
+    "trailing_24h_volume_usd": 3534000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 78,
+    "pair": "FRAX / USDT",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 131126923.04430778,
+    "active_liquidity_usd": 1114000.0,
+    "trailing_24h_volume_usd": 4233200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 79,
+    "pair": "WBTC / USDT",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Camelot V3",
+      "Uniswap V3"
+    ],
+    "sp_score": 130719388.46870404,
+    "active_liquidity_usd": 1000000.0,
+    "trailing_24h_volume_usd": 4200000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 80,
+    "pair": "GRAIL / USDT",
+    "token0": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 125712438.06731492,
+    "active_liquidity_usd": 970000.0,
+    "trailing_24h_volume_usd": 3686000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 81,
+    "pair": "FRAX / USDC",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 121915615.1324617,
+    "active_liquidity_usd": 1162000.0,
+    "trailing_24h_volume_usd": 4415600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 82,
+    "pair": "WBTC / LUSD",
+    "token0": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "token1": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 121848203.00453524,
+    "active_liquidity_usd": 794000.0,
+    "trailing_24h_volume_usd": 3017200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 83,
+    "pair": "GRAIL / USDC",
+    "token0": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 118121658.46660137,
+    "active_liquidity_usd": 1010000.0,
+    "trailing_24h_volume_usd": 3838000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 84,
+    "pair": "LUSD / USDT",
+    "token0": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+    "token1": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 116503428.99780835,
+    "active_liquidity_usd": 826000.0,
+    "trailing_24h_volume_usd": 3138800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 85,
+    "pair": "MAGIC / DAI",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 116503428.99780835,
+    "active_liquidity_usd": 826000.0,
+    "trailing_24h_volume_usd": 3138800.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 86,
+    "pair": "RDNT / DAI",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 115308868.04541838,
+    "active_liquidity_usd": 754000.0,
+    "trailing_24h_volume_usd": 2865200.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 87,
+    "pair": "MAGIC / rETH",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 114687775.82288611,
+    "active_liquidity_usd": 890000.0,
+    "trailing_24h_volume_usd": 3382000.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 88,
+    "pair": "RDNT / rETH",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 114097317.49865207,
+    "active_liquidity_usd": 810000.0,
+    "trailing_24h_volume_usd": 3078000.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 89,
+    "pair": "DAI / rETH",
+    "token0": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 113141194.26058343,
+    "active_liquidity_usd": 970000.0,
+    "trailing_24h_volume_usd": 3686000.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 90,
+    "pair": "FRAX / rETH",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 111395673.31323493,
+    "active_liquidity_usd": 730000.0,
+    "trailing_24h_volume_usd": 2774000.0,
+    "volatility_sigma": 0.018000000000000002
+  },
+  {
+    "rank": 91,
+    "pair": "RDNT / wstETH",
+    "token0": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 111392156.4802428,
+    "active_liquidity_usd": 866000.0,
+    "trailing_24h_volume_usd": 3290800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 92,
+    "pair": "MAGIC / wstETH",
+    "token0": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 111152542.83066875,
+    "active_liquidity_usd": 954000.0,
+    "trailing_24h_volume_usd": 3625200.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 93,
+    "pair": "LUSD / USDC",
+    "token0": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+    "token1": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 110294875.92978469,
+    "active_liquidity_usd": 858000.0,
+    "trailing_24h_volume_usd": 3260400.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 94,
+    "pair": "GRAIL / WETH",
+    "token0": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "token1": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 109434974.68434657,
+    "active_liquidity_usd": 1050000.0,
+    "trailing_24h_volume_usd": 3990000.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 95,
+    "pair": "FRAX / wstETH",
+    "token0": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 109294094.8245253,
+    "active_liquidity_usd": 778000.0,
+    "trailing_24h_volume_usd": 2956400.0,
+    "volatility_sigma": 0.0165
+  },
+  {
+    "rank": 96,
+    "pair": "wstETH / DAI",
+    "token0": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "token1": "0xda10009cbd5d07dd0cecc6616156627511d75131",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 108546536.7842936,
+    "active_liquidity_usd": 1042000.0,
+    "trailing_24h_volume_usd": 3959600.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 97,
+    "pair": "PENDLE / RDNT",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 107181485.82019891,
+    "active_liquidity_usd": 922000.0,
+    "trailing_24h_volume_usd": 3503600.0,
+    "volatility_sigma": 0.0135
+  },
+  {
+    "rank": 98,
+    "pair": "PENDLE / FRAX",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 105912208.17982575,
+    "active_liquidity_usd": 826000.0,
+    "trailing_24h_volume_usd": 3138800.0,
+    "volatility_sigma": 0.015
+  },
+  {
+    "rank": 99,
+    "pair": "PENDLE / MAGIC",
+    "token0": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "token1": "0x539bde0d7dbd336b79148aa742883198bbf60342",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 105883763.2028822,
+    "active_liquidity_usd": 1018000.0,
+    "trailing_24h_volume_usd": 3868400.0,
+    "volatility_sigma": 0.012
+  },
+  {
+    "rank": 100,
+    "pair": "GRAIL / wstETH",
+    "token0": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+    "token1": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "venues": [
+      "Uniswap V3",
+      "SushiSwap V2"
+    ],
+    "sp_score": 104891856.11011374,
+    "active_liquidity_usd": 690000.0,
+    "trailing_24h_volume_usd": 2622000.0,
+    "volatility_sigma": 0.018000000000000002
+  }
+]

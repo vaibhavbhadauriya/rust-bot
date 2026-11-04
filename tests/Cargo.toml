@@ -1,0 +1,75 @@
+[package]
+name = "flash-e2e-tests"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+flash-core = { workspace = true }
+flash-math = { workspace = true }
+flash-scanner = { workspace = true }
+flash-collector = { workspace = true }
+flash-simulator = { workspace = true }
+flash-executor = { workspace = true }
+flash-strategy = { workspace = true }
+alloy-primitives = { workspace = true }
+tokio = { workspace = true, features = ["full", "rt", "macros"] }
+serde = { workspace = true }
+serde_json = { workspace = true }
+
+[[test]]
+name = "tier1_feature_tests"
+path = "tier1_feature_tests.rs"
+
+[[test]]
+name = "tier2_boundary_tests"
+path = "tier2_boundary_tests.rs"
+
+[[test]]
+name = "tier3_pairwise_tests"
+path = "tier3_pairwise_tests.rs"
+
+[[test]]
+name = "tier4_realworld_tests"
+path = "tier4_realworld_tests.rs"
+
+[[test]]
+name = "f05_discovery_prefilters"
+path = "f05_discovery_prefilters.rs"
+
+[[test]]
+name = "f06_sp_ranking_burst"
+path = "f06_sp_ranking_burst.rs"
+
+[[test]]
+name = "f08_arbitrum_feed_unpack"
+path = "f08_arbitrum_feed_unpack.rs"
+
+[[test]]
+name = "f09_base_flashblocks"
+path = "f09_base_flashblocks.rs"
+
+[[test]]
+name = "f15_honeypot_filter"
+path = "f15_honeypot_filter.rs"
+
+[[test]]
+name = "b05_discovery_boundaries"
+path = "b05_discovery_boundaries.rs"
+
+[[test]]
+name = "b06_sp_ranking_boundaries"
+path = "b06_sp_ranking_boundaries.rs"
+
+[[test]]
+name = "b08_arbitrum_feed_boundaries"
+path = "b08_arbitrum_feed_boundaries.rs"
+
+[[test]]
+name = "b09_base_flashblocks_boundaries"
+path = "b09_base_flashblocks_boundaries.rs"
+
+[[test]]
+name = "scenario5_arbitrum_burst_multieoa"
+path = "scenario5_arbitrum_burst_multieoa.rs"

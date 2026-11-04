@@ -1,0 +1,26 @@
+# Credentials & secrets
+.env
+.env.*
+!.env.example
+
+# Rust compilation artifacts
+target/
+
+# Local agent notes and work products
+.agents/
+
+# Cache directories
+.cache/
+cacache/
+data/
+
+# Logs & temporary files
+*.log
+spread_log.csv
+
+# IDE / OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
